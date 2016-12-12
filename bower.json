@@ -1,7 +1,7 @@
 {
   "name": "universal-footer",
   "version": "1.0.1",
-  "homepage": "https://github.com/prateekjadhwani/universal-footer",
+  "homepage": "https://github.com/egao1980/universal-footer",
   "authors": [
     "Prateek Jadhwani <prateekjadhwani@users.noreply.github.com>"
   ],
@@ -23,14 +23,14 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#~1.0.7",
-    "paper-material": "PolymerElements/paper-material#~1.0.1",
-    "iron-icon": "PolymerElements/iron-icon#~1.0.2",
-    "iron-iconset": "PolymerElements/iron-iconset#~1.0.2",
-    "iron-icons": "PolymerElements/iron-icons#~1.0.3"
+    "polymer": "Polymer/polymer#^1.7.0",
+    "paper-material": "PolymerElements/paper-material#^1.0.1",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-iconset": "PolymerElements/iron-iconset#^1.0.2",
+    "iron-icons": "PolymerElements/iron-icons#^1.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/prateekjadhwani/universal-footer.git"
+    "url": "git://github.com/egao1980/universal-footer.git"
   }
 }
